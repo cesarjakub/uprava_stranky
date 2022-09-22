@@ -1,0 +1,1 @@
+# uprava_stranky
