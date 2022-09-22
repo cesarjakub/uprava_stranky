@@ -13,3 +13,21 @@ a{
     text-decoration: none;
     color: black;
 }
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+}
+ol{
+    list-style-type: upper-roman;
+}
+dd{
+    visibility: hidden;
+}
+dt:hover + dd{
+    visibility: visible;
+}
