@@ -6,3 +6,10 @@ address{
 strong{
     font-size: large + 25%;
 }
+main{
+    font-style: italic;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
